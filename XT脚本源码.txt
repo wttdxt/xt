@@ -1,0 +1,2 @@
+getgenv().XT=“XT缝合脚本中心Q群769452568”
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XTxt-design/XT-/refs/heads/main/%E6%B5%8B%E8%AF%95"))()
